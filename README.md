@@ -13,7 +13,7 @@ Projet Python pour expérimenter différents algorithmes de chiffrement classiqu
 - Calcul du PGCD et de l’inverse modulaire
 - Test de primalité (déterministe et Miller-Rabin)
 
-## Structure du projet│
+## Structure du projet
 - main.py:  Menu principal et gestion des interactions utilisateur 
 - TP2.py:   Fonctions de chiffrement classiques (César, Vigenère, Playfair, Polybe) 
 - TP3.py:   Fonctions avancées (DES, exponentiation rapide, primalité, PGCD)
